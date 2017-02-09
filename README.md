@@ -17,7 +17,7 @@ License: **GPLv3**
 * Intended to use in the local area - zoom in to your location and look for entries
 * Everyone can add entries (and delete them), no login needed
 * Entries will be available 3 weeks
-* Available in English, German, Czech, Spanish and Japanese
+* Available in many languages
 
 **How to support the project?**
 
